@@ -1,2 +1,2 @@
 # gbgfa
-Gene-wise Prior Bayesian Group Fanctor Analysis Model
+Gene-wise Prior Bayesian Group Factor Analysis Model
